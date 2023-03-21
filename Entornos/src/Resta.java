@@ -16,6 +16,7 @@ int a,b, c;// iniciamos las 2 variables a la vez (se pueden iniciar por separado
 	a=teclado.nextInt(); // aqui pedimos por teclado el valor
 	b=teclado.nextInt();// " " " "
 	
+		
 	c=a-b;//operamos la resta para que se ejecute
 	
 	System.out.println("La resta de "+a+" y "+b+" es "+c );
